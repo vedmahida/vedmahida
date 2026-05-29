@@ -1,18 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200§ion=header&text=Vedantsinh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Vedantsinh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=50" />
 
 <p align="center">
-  <a href="mailto:vedantsinh.m0944@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS&abbreviated=true" />
 </p>
 
 </div>
@@ -148,5 +142,5 @@ Focused on **RAG pipelines**, **vector search**, **MLOps**, and production-grade
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100§ion=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" />
 </div>
