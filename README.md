@@ -3,10 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Vedantsinh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=50" />
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS&abbreviated=true" />
+  <img src="https://komarev.com/ghpvc/?username=vedmahida&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS&abbreviated=true" />
 </p>
 
 </div>
@@ -112,12 +109,12 @@ Focused on **RAG pipelines**, **vector search**, **MLOps**, and production-grade
 ### 📊 &nbsp; GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedmahida&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=vedmahida&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedmahida&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
@@ -125,7 +122,7 @@ Focused on **RAG pipelines**, **vector search**, **MLOps**, and production-grade
 ### 🏆 &nbsp; GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vedmahida&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ---
