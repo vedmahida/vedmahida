@@ -13,7 +13,7 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=vedmahida&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
 ### 🧠 &nbsp; About me
 
