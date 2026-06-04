@@ -56,7 +56,7 @@ Focused on **RAG pipelines**, **vector search**, **MLOps**, and production-grade
 ---
 
 ### 🚀 &nbsp; Featured Projects
-
+#### PlaceHolder for Now (Ready to push Local to here)
 <table>
   <tr>
     <td width="50%">
